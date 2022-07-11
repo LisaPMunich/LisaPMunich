@@ -1,6 +1,6 @@
-### Hi there 👋 I am Lisa Pape and a -soon to be- certified full-stack web developer with a focus on JavaScript/TypeScript.
+### Hi there 👋 I am Lisa Pape and a certified full-stack web developer with a focus on JavaScript/TypeScript.
 
-- 👩‍🎓 I will finish a 8 month immersive web development course with CareerFoundry in September 2022.
+- 👩‍🎓 I will finish a 8 month immersive web development course with CareerFoundry by September 2022.
 - 💡 I’m currently considering doing a new version of my portfolio page in next.js, tailwind CSS, and the library rough notation.
 - 💟 I love doing meticulous work to review, improve design and details and make the code cleaner.
 - 👀 I’m always excited to learn new programming languages, expand my understanding of the whole programming ecosystem and keep up with the always-evolving world of programming.
