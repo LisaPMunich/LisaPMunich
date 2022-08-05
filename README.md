@@ -8,6 +8,9 @@
 ### My GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaPMunich&theme=blue-green&hide=html,css&theme=dark)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LisaPMunich&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaPMunich&langs_count=5&theme=tokyonight)]()
+
 ### Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
 
