@@ -6,9 +6,9 @@
 - 📫 How to reach me: [my Portfolio Page](https://lisapmunich.github.io/Portfolio-Website/contact.html)
 
 ### My GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaPMunich&theme=blue-green&hide=html,css)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaPMunich&theme=blue-green&hide=html,css&title_color=#5CDB95)
 
-/**### Profile View Counter
-*![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
-*/
+### Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
+
 
