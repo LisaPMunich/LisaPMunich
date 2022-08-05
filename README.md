@@ -8,7 +8,6 @@
 ### My GitHub Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaPMunich&langs_count=6&theme=tokyonight&hide=html,css&theme=dark&layout=compact)]()
 
-### Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
 
 
