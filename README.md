@@ -7,7 +7,7 @@
 
 ### Learn more about me and reach out!
 
-[![Portfolio Page](https://img.shields.io/badge/https://lisapmunich.github.io/Portfolio-Website/)](My Portfolio Website)
+[![Portfolio Page](https://img.shields.io/badge/My Portfolio Website-cc4e56?style=flat-square&link=(https://lisapmunich.github.io/Portfolio-Website/)(https://lisapmunich.github.io/Portfolio-Website/)
 
 
 
