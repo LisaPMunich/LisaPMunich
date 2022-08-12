@@ -5,6 +5,13 @@
 * 📚 I believe in life-long-learning on and off the job. I’m open and willing to learn new skills, tools & programming languages.
 * 📫 How to reach me: [my Portfolio Page](https://lisapmunich.github.io/Portfolio-Website/contact.html)
 
+### Learn more about me and reach out!
+
+[![Portfolio Page](https://img.shields.io/badge/https://lisapmunich.github.io/Portfolio-Website/)](My Portfolio Website)
+
+
+
+
 ### My GitHub Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaPMunich&langs_count=6&theme=tokyonight&hide=html,css&theme=dark&layout=compact)]()
 
