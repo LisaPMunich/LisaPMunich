@@ -1,7 +1,11 @@
-### Hi there 👋 I am Lisa Pape | Certified Full Stack Web Developer | Focus: JavaScript/TypeScript
+# Hi there 👋 I am Lisa
+
+### Certified Full Stack Web Developer | Focus: JavaScript/TypeScript
 
 * 💡 I just completed a project brief for my next project COLOR4KIDS, which I will implement using TypeScript, React and CSSTailwind for the Frontend and Nestjs, Apollo, GraphQL, PostgreSQL for the Backend
 * 💟  I believe in life-long-learning on and off the job. I’m open and willing to learn new skills, tools & programming languages.
+
+---
 
 ### Learn more about me and reach out!
 
