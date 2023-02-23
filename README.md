@@ -2,7 +2,7 @@
 
 ### Certified Full Stack Web Developer | Focus: JavaScript/TypeScript
 
-* 💡 I just completed a project brief for my next project COLOR4KIDS, which I will implement using TypeScript, Vue.js and CSSTailwind for the Frontend and Nestjs, Apollo, GraphQL, PostgreSQL for the Backend
+* 💡 I am currently working on three different projects involving Angular and React. Also I am expanding my knowledge of Cypress to do end-to-end testing and thus ensure the quality of the projects.
 * 💟  I believe in life-long-learning on and off the job. I’m open and willing to learn new skills, tools & programming languages.
 
 ---
