@@ -31,11 +31,15 @@
 
 
 ---
-### My Stats 🔥 
+### My GitHub Stats 🔥 
 
-<div>
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=F0F3F6&text_color=F0F3F6&bg_color=0a0c10&locale=en&layout=compact&hide_border=false_border-style=rounded" alt="Lisa Pape" />
+<a href="https://github.com/LisaPMunich/github-stats">
+<img src="https://github.com/LisaPMunich/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/LisaPMunich/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LisaPMunich&hide=contribs,prs)
 
+### Visitor Info 👀 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
 
