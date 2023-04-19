@@ -16,6 +16,7 @@
 * [![My LinkedIn Profile](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisa-pape/)](https://www.linkedin.com/in/lisa-pape/)
 
 
+---
 ### Technologies I work with
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
