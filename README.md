@@ -33,8 +33,8 @@
 ---
 ### My GitHub Stats 🔥 
 
-![Top Langs](https://github-readme-stats-nkos4755p-lottaerdogan-gmailcom.vercel.app/api/top-langs/?username=LisaPMunich&exclude_repo=github-readme-stats)
-![GitHub stats](https://github-readme-stats-nkos4755p-lottaerdogan-gmailcom.vercel.app/api?username=LisaPMunich)
+![Top Langs](https://github-readme-stats-nkos4755p-lottaerdogan-gmailcom.vercel.app/api/top-langs/?username=LisaPMunich&exclude_repo=github-readme-stats&layout=compact&disable_animations=true&langs_count=8&title_color=5CDB95)
+![GitHub stats](https://github-readme-stats-nkos4755p-lottaerdogan-gmailcom.vercel.app/api?username=LisaPMunich&disable_animations=true&title_color=5CDB95&hide=contribs,issues)
 
 ### Visitor Info 👀 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
