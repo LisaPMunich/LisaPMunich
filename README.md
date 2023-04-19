@@ -1,4 +1,4 @@
-# Hi there 👋 I am Lisa
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+there+I+am+Lisa!)](https://git.io/typing-svg)
 
 ### Certified Full Stack Web Developer | Focus: JavaScript/TypeScript
 
@@ -15,6 +15,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
 
 
-### Stats📈
+### My Stats 🔥 
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=71b7ff&text_color=71b7ff&bg_color=0a0c10&locale=en&layout=compact&hide_border=true" alt="Lisa Pape" /> 
+<div>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=71b7ff&text_color=71b7ff&bg_color=0a0c10&locale=en&layout=compact&hide_border=true_border-style=rounded" alt="Lisa Pape" /> 
