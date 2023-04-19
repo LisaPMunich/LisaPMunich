@@ -17,4 +17,4 @@
 
 ### Stats📈
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=13315C&text_color=13315C&bg_color=DBFCFF&locale=en&layout=compact&hide_border=true" alt="Lisa Pape" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=13315C&text_color=13315C&bg_color=000&locale=en&layout=compact&hide_border=true" alt="Lisa Pape" /> 
