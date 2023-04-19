@@ -16,11 +16,25 @@
 * [![My LinkedIn Profile](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisa-pape/)](https://www.linkedin.com/in/lisa-pape/)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
+### Technologies I work with
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%23264DE4.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8011F5?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Prime_NG](https://img.shields.io/badge/PrimeNG-C3002E?style=for-the-badge&logo=prime-ng&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3075C1?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-React-5DD4F4?style=for-the-badge&logo=react&logoColor=white)
+![Angular2+](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node](https://img.shields.io/badge/Nodejs-72A864?style=for-the-badge&logo=nodejs&logoColor=red)
 
 
 ---
 ### My Stats 🔥 
 
 <div>
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=F0F3F6&text_color=F0F3F6&bg_color=0a0c10&locale=en&layout=compact&hide_border=false_border-style=rounded" alt="Lisa Pape" /> 
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LisaPMunich&show_icons=true&theme=dracula&title_color=F0F3F6&text_color=F0F3F6&bg_color=0a0c10&locale=en&layout=compact&hide_border=false_border-style=rounded" alt="Lisa Pape" />
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=LisaPMunich)
+
